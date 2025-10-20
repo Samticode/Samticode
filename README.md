@@ -1,7 +1,7 @@
 # Hey, i'm Samti, a Norwegian developer 👋
 
 - 🏢 Currentrly an apprentice at [Link Utvikling](https://www.linkutvikling.no/)
-- 🏫 At my dourth, out of my four year degree to be an IT-developer
+- 🏫 At my fourth, out of my four year degree to be an IT-developer
 
 ### 🚀 Tech Stack
 
